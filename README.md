@@ -6,4 +6,4 @@ Inother algorithms like Convolutional Neural Network, FastConvolutional Neural N
 image completely but in YOLO the algorithm looks the image
 completely by predicting the bounding boxes using convolutional
 network and the class probabilities for these boxes and detects the
-image faster as compared to other algorithms
+image faster as compared to other algorithms.
